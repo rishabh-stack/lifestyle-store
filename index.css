@@ -1,0 +1,41 @@
+a {
+    text-decoration: none;
+    background-color: transparent;
+    color: #ededed;
+    text-decoration: none;
+}
+
+.thumbnail:hover {
+    opacity: 0.8;
+}
+
+.banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+    text-align: center;
+    margin-left: 190px;
+}
+
+.banner-image {
+    padding-top: 75px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("intro-bg.jpg") no-repeat center;
+    background-size: cover;
+}
+
+footer {
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
